@@ -115,7 +115,7 @@ def vipusniki(update, context):
     pass
 def main():
   
-    updater = Updater("1600092846:AAHLA--iPlmFI8LMfp-U7PEL2NtmrGqUJJQ", use_context=True)
+    updater = Updater("1669444688:AAEBtyf5WB8s05VIkLyie05Xt4SXX571bFc", use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
