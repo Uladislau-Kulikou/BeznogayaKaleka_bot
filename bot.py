@@ -22,7 +22,7 @@ import logging
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CallbackQueryHandler, CommandHandler, MessageHandler, Filters
 import urllib.request
-link = 'https://ulkabo.github.io/bot-friday/data/'
+link = 'https://uladislau-kulikou.github.io/BeznogayaKaleka_bot/data/'
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
